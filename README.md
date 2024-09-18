@@ -1,2 +1,2 @@
-# d6pg-algorithm
+# D6PG-Algorithm
  
